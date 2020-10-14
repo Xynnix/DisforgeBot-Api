@@ -30,9 +30,3 @@ client.on("error", (error) => console.log(`Something was wrong when the module h
 ## **Disforge**
 
 * List Website: http://disforge.com
-
-## 📝 License
-
-Copyright © 2020 [HiiZun](https://github.com/hiizun).<br />
-This project is [MIT](https://github.com/bladebotlist/bbl-api/blob/master/LICENSE) licensed.
-# DisforgeBot-Api
