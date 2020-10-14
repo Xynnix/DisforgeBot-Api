@@ -1,0 +1,29 @@
+{
+  "name": "disforgebot-api",
+  "version": "0.0.1",
+  "description": "One of the Disforge api NodeJS Bot stats Posting Wrappers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuciDiscord/DisforgeBot-Api.git"
+  },
+  "keywords": [
+    "api",
+    "node-fetch",
+    "discordjs",
+    "eris",
+    "module",
+    "official",
+    "nodejs",
+    "wrapper"
+  ],
+  "author": "Unknown",
+  "license": "MIT",
+  "bugs": {},
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

@@ -1,25 +1,4 @@
-<h1 align="center">Welcome to bbl-api 👋</h1>
-<p>
-  <a href="https://www.npmjs.com/package/bbl-api" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/bbl-api.svg">
-  </a>
-  <a href="https://docs.bladebotlist.xyz" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/bladebotlist/bbl-api/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/bladebotlist/bbl-api/blob/master/LICENSE" target="_blank">
-    <img alt="License: mit" src="https://img.shields.io/github/license/hiizun/bbl-api" />
-  </a>
-  <a href="https://twitter.com/bladebotlist" target="_blank">
-    <img alt="Twitter: bladebotlist" src="https://img.shields.io/twitter/follow/bladebotlist.svg?style=social" />
-  </a>
-</p>
-
-> The official bladebotlist.xyz's api to post your server count easly and interact with the bladebotlist api
-
-### 🏠 [Homepage](https://docs.bladebotlist.xyz)
+### 🏠 [Homepage](https://disforge.com)
 
 ## Install
 
